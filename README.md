@@ -47,7 +47,7 @@ It is calculated as:
 
 # Program: 
 # REGISTER NO:25006773
-# NAME:B.NAVASRI
+# NAME:NAVASRI.B
 # SLOT NAME:3P1-1
 ```
 import numpy as np

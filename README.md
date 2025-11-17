@@ -49,7 +49,6 @@ It is calculated as:
 # REGISTER NO:25006773
 # NAME:B.NAVASRI
 # SLOT NAME:3P1-1
-# COLAB LINK:https://colab.research.google.com/drive/1wF5dyY-r20s5_KOBNWwW1NgtoyLAOyT3?usp=sharing
 ```
 import numpy as np
 
@@ -83,6 +82,8 @@ print(f"The Mean arrival rate is {mean:.3f}")
 print(f"The Variance of arrival from feeder is {var:.3f}")
 print(f"The Standard deviation of arrival from feeder is {SD:.3f}")
 ```
+# COLAB LINK:https://colab.research.google.com/drive/1wF5dyY-r20s5_KOBNWwW1NgtoyLAOyT3?usp=sharing
+
 # Output:
 <img width="768" height="105" alt="Screenshot 2025-11-17 140250" src="https://github.com/user-attachments/assets/857d5bad-8e8f-416f-be02-5f3fc716564f" />
 
